@@ -1,9 +1,0 @@
-/vendor/      
-/.env             
-/.idea/           
-/.vscode/         
-composer.lock
-.phpunit.cache
-phpunit.xml
-coverage-report
-.gitignore
